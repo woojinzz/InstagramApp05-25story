@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "885826235176",
+    "firebase_url": "https://nani-e7058-default-rtdb.firebaseio.com",
+    "project_id": "nani-e7058",
+    "storage_bucket": "nani-e7058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885826235176:android:d84a29abe795e3c2557e1d",
+        "android_client_info": {
+          "package_name": "com.koddev.instagramtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885826235176-7meh8mkt6g1intklbgp8inupv5rqkljc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNFc2g88JjxxeUMpYoEegwtaKr-nBmF0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885826235176-7meh8mkt6g1intklbgp8inupv5rqkljc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885826235176:android:4e70a935aafa8fe2557e1d",
+        "android_client_info": {
+          "package_name": "com.ksi.mystudyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885826235176-7meh8mkt6g1intklbgp8inupv5rqkljc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNFc2g88JjxxeUMpYoEegwtaKr-nBmF0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885826235176-7meh8mkt6g1intklbgp8inupv5rqkljc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
